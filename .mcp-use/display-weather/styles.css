@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Configure Tailwind to scan the resources directory */
+@source "../../resources";
